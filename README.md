@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Manikandan</h1>
 <p>A passionate Frontend Developer </p>
-<h2>🚀 Languages and Tools I Use</h2>
+<!-- <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
@@ -32,7 +32,7 @@
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
 </a>
 </p>
-</p>
+</p> -->
 # 💫 About Me:
 🎓 I'm currently studying:<br>Final year Computer Science Engineering student with a passion for development and design.<br><br>💼 I'm currently working on:<br><br>Personal web development projects<br><br>UI/UX design case studies<br><br>🤝 I'm looking to collaborate on:<br><br>Open-source web projects<br><br>UI/UX design revamps<br><br>Beginner-friendly frontend or data visualization tools<br><br>❓ I'm looking for help with:<br><br>Backend integration for web apps<br><br>Understanding deployment and CI/CD<br><br>📚 I'm currently learning:<br><br>Backend development (Node.js, Express)<br><br>Machine Learning basics with Python<br><br>Power Automate (Cloud & Desktop Flows)<br><br>Hindi (on Duolingo 😉)<br><br>💬 Ask me about:<br><br>Frontend development<br><br>UI/UX design process<br><br>College project ideas or portfolio tips!<br><br>🎉 Fun fact about me:<br><br>I create and rate eFootball teams on YouTube
 
